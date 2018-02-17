@@ -1,2 +1,3 @@
 # hello-world
-First projects
+Hola soy Carlos.
+Estoy aprendiendo como se usa esta wea.
